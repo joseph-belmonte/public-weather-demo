@@ -7,7 +7,7 @@ interface FiveDayForecastProps {
 }
 
 const FiveDayForecast = ({ weatherData }: FiveDayForecastProps) => {
-  console.log("weatherData", weatherData);
+
   if (!weatherData) {
     return <div>Loading...</div>;
   }

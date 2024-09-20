@@ -28,7 +28,7 @@ export default async function handler(
       location
     )}.json?access_token=${MAPBOX_TOKEN}`;
 
-    console.log("Making API call to:", geocodeURL);
+
 
     // Make a request to Mapbox API
     const response = await axios.get(geocodeURL);
@@ -41,8 +41,7 @@ export default async function handler(
     // Extract longitude and latitude from the first feature's center property
     const [longitude, latitude] = response.data.features[0].center;
 
-    // Log the response
-    console.log("Coordinates fetched:", { longitude, latitude });
+
 
     // Respond with the coordinates
     res.status(200).json({ longitude, latitude });

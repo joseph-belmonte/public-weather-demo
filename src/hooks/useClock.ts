@@ -63,7 +63,6 @@ const useClock = (latitude: number, longitude: number) => {
         cachedTimezone.trim() &&
         !isNearDSTTransition(currentDate)
       ) {
-        console.log("Using cached timezone:", cachedTimezone);
         setTimezone(cachedTimezone);
         return;
       }

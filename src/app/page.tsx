@@ -98,7 +98,7 @@ export default function HomePage() {
 
   /// START REGION: WEATHER DATA
   const fetchWeatherData = async (location: string) => {
-    console.log("Fetching weather data for:", location);
+
 
     const cacheKey = `weather_${location.replace(/\s+/g, "_")}`;
     const cachedData = loadFromCache(cacheKey);
@@ -209,7 +209,7 @@ export default function HomePage() {
       if (response.status !== 200) {
         throw new Error("Failed to fetch AQI data.");
       }
-      console.log("response.data", response.data);
+
 
       // Save the fetched data to state and cache
       setAqiData(response.data);

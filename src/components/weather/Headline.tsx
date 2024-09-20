@@ -10,7 +10,7 @@ interface HeadlineProps {
 }
 
 export default function Headline({ weatherData }: HeadlineProps) {
-  console.log("weatherData", weatherData);
+
   if (!weatherData || !weatherData.periods) {
     return (
       <div className="text-center text-red-500">

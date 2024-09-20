@@ -26,7 +26,6 @@ export default function SearchBar({ location, setLocation }: SearchBarProps) {
 
   const handleSave = () => {
     if (inputValue.trim()) {
-      console.log(`Updating location to: ${inputValue}`);
       setLocation(inputValue);
       setIsEditing(false);
     } else {
