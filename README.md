@@ -61,9 +61,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Previews
 
-![desktop-1](https://github.com/user-attachments/assets/ddac826e-6818-4a3f-a8f5-5396bbec87c3)
-![desktop-2](https://github.com/user-attachments/assets/1d845ac6-d14a-4e15-83bb-853330fc2607)
-![mobile-1](https://github.com/user-attachments/assets/8ed18d55-0b46-48ab-b183-b29cf8b644fb)
-![mobile-2](https://github.com/user-attachments/assets/c32a7883-631c-4836-9f1e-5bbe29de2497)
-![mobile-3](https://github.com/user-attachments/assets/e387cd88-98d9-4711-8d0b-349f4edfbfec)
-![mobile-4](https://github.com/user-attachments/assets/c6bc195e-37a0-432c-adab-d4f6aa4dd314)
+![desktop-1](https://github.com/user-attachments/assets/ddac826e-6818-4a3f-a8f5-5396bbec87c3.png)
+![desktop-2](https://github.com/user-attachments/assets/1d845ac6-d14a-4e15-83bb-853330fc2607.png)
+![mobile-1](https://github.com/user-attachments/assets/8ed18d55-0b46-48ab-b183-b29cf8b644fb.png)
+![mobile-2](https://github.com/user-attachments/assets/c32a7883-631c-4836-9f1e-5bbe29de2497.png)
+![mobile-3](https://github.com/user-attachments/assets/e387cd88-98d9-4711-8d0b-349f4edfbfec.png)
+![mobile-4](https://github.com/user-attachments/assets/c6bc195e-37a0-432c-adab-d4f6aa4dd314.png)
