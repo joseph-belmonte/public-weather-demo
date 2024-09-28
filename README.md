@@ -1,9 +1,5 @@
 # Weather and Air Quality App
 
-See the deployed application here: [https://example.com](https://example.com)
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Overview
 
 This application, built with Next.js, React, TypeScript, and Tailwind CSS, provides weather, air quality, and UV index data for U.S. locations using the following public APIs:
